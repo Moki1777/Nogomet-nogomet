@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+    <title> Nogomet </title>
+</head>
+<body>
+<body bgcolor="blue">
+
+<font>
+<p align="center"><table border="0" width="100%" bgcolor="green" font color="white"> </p>
+<nav>
+<td><font color="white" a href="CA.html"> Copa America </a></td>
+<td><font color="white" a href="SP.html"> Svjetska prvenstva </a></td>
+<td><font color="white" a href="EP.html"> Europska Prvenstva </a></td>
+<td><font color="white" a href="LP.html"> Liga prvaka </a></td>
+</table>
+</nav>
+
+<b>  <h1 align="center"> NOGOMET </h1> </font> </b>
+
+<p> <h3> ŠTO JE NOGOMET? </h3> </font> </p>
+<p>  Najvažnija sporedna stvar u životu i sport poznat diljem svijeta.
+<p> <i> Najpoznatiji i najveći nogometni klubovi: </i> </p>
+<ul>
+<li><a href="https://www.fcbarcelona.com/"> Barcelona </a> </li>
+<li><a href="https://www.realmadrid.com/"> Real Madrid </li> </a>
+<li><a href="https://en.psg.fr/"> PSG </li> </a>
+<li><a href="https://www.manutd.com/> Man United </li> </a>
+<li></li>
+</ul>
+
+
+<p> <font color="white"> <h3> nogometni stadioni: </h3> </font> </p>
+<p> <font color="white"> Camp Nou, Satiago Bernabeu, Park de Princes, Old Trafford <font color="white">  </font> </p>
+
+<p align="center">  Igrači: </font> </p>
+<p align="center"> <img src="messi.jpg" height="300" width="400"></p>
+<p align="center">Lionel Messi</p>
+<br>
+<p align="center"> <img src="ronaldo.jpg" height="300" width="430"></p>
+<p align="center">Cristiano Ronaldo</p>
+<br>
+<p align="center"> <img src="neymar.jpg" height="320" width="250"></p>
+<p align="center">Neymar</p>
+<br>
+<p align="center"> <img src="Sancho.jpg" height="300" width="300"></p>
+<p align="center">Jadon Sancho</p>
+
+
+</body>
+</html>
